@@ -5,8 +5,7 @@ import logging.handlers
 from datetime import timedelta
 
 def Epoch_file_rename(path):
-                                 
-            if os.path.exists(path) :
+             if os.path.exists(path) :
                         Count=0
                         for filename in os.listdir(path):
                                     if filename.startswith("auto-"):
