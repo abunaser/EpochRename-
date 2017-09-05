@@ -1,2 +1,2 @@
-# EpochRename-
-Rename Epoch Voice Log File name for Grandstream PBX
+# EpochRename
+Rename epoch voice log File name to human readable for Grandstream PBX
